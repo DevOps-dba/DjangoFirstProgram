@@ -1,6 +1,6 @@
 **DjangoStart**
 
-基于inception的自动化SQL操作平台
+用于Django入门学习的程序
 
 开发语言和推荐环境：\
 python：2.7.14 \
